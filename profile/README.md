@@ -1,7 +1,3 @@
-Below is a **clean, professional, GitHub-ready `README.md`** for **Tawf Labs**, with all three apps — **Tawf Sharia**, **ZK Zakat**, and **QRBN DApp** — presented as the main products of the lab.
-
----
-
 # 🕌 Tawf Labs
 
 **Building Sharia-compliant, trust-first Web3 infrastructure for the global Muslim community.**
