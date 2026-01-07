@@ -67,6 +67,7 @@ Tawf Sharia is designed to operate across Ethereum-compatible ecosystems, includ
 * Ethereum
 * Base
 * Lisk
+* Ethiq
 
 This ensures consistent Sharia governance across multiple networks.
 
@@ -129,7 +130,7 @@ It serves as the **source of truth for Sharia compliance** across Tawf Labs.
 * NFT proof of sacrifice
 * Real-time progress tracking
 
-### 💰 Farm wakaf
+### 💰 Farm Wakaf
 
 * Wakaf contribution and pooling through smart contracts
 * Productive wakaf models for agriculture, livestock, and community assets
@@ -205,8 +206,9 @@ All Tawf Labs repositories are MIT-licensed unless stated otherwise.
 # 🧡 Acknowledgments
 
 * Islamic finance scholars & advisors
-* Algorand Foundation
-* Lisk Foundation
+* [Ethereum Foundation](https://ethereum.foundation/)
+* [Ethiq Network](https://ethiq.network/)
+* [Lisk Foundation](https://lisk.com/)
 * Global Muslim Web3 community
 * Open-source developers
 
@@ -215,3 +217,5 @@ All Tawf Labs repositories are MIT-licensed unless stated otherwise.
 # 🌙 Made by Tawf Labs
 
 *"Bridging the ummah in web3."*
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+
