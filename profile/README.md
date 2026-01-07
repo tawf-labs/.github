@@ -219,3 +219,5 @@ All Tawf Labs repositories are MIT-licensed unless stated otherwise.
 *"Bridging the ummah in web3."*
 بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
+
+
