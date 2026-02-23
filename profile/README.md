@@ -92,5 +92,3 @@ A company of Tawf Foundation
 **Bridging the ummah to decentralized systems through infrastructure and applications.**
 
 بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-
-Do you want me to do that?
