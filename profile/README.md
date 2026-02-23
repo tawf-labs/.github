@@ -4,7 +4,6 @@
 
 Muslim communities are increasingly engaging with blockchain and DeFi, but most platforms **fail to provide verifiable, ethical, and Sharia-compliant solutions**. Tawf Labs exists to **bridge this trust gap** by developing **foundational infrastructure** and **consumer applications** that make participation safe, ethical, and practical.
 
----
 
 # The Problem
 
@@ -17,7 +16,6 @@ Current decentralized finance and digital asset platforms often:
 
 As a result, a large community is **excluded or exposed to unethical risk**.
 
----
 
 # Our Solution
 
@@ -35,7 +33,6 @@ We ensure:
 
 This dual approach of infrastructure plus applications **enables Muslim communities to participate confidently and ethically**.
 
----
 
 # Focus Areas
 
@@ -53,19 +50,16 @@ Core R&D:
 * Open standards for faith-aligned decentralized systems
 * Consumer-facing Sharia-compliant applications
 
----
 
 # Vision
 
 A decentralized ecosystem where Muslim communities can **participate with confidence, clarity, and trust**, supported by infrastructure and applications that **embed Sharia compliance natively**.
 
----
 
 # Mission
 
 To **research, define, and build Sharia-aligned governance and financial infrastructure**, and to **deliver applications** that enable ethical participation of the ummah in blockchain-based systems.
 
----
 
 # Open Development
 
@@ -78,18 +72,14 @@ We support **open research and open-source collaboration**. Contributions are we
 
 All work aligns with **technical rigor and Sharia compliance principles**.
 
----
 
 # License
 
 Unless otherwise specified, repositories under Tawf Labs are released under the **MIT License**.
 
----
 
 Tawf Labs
 A company of Tawf Foundation
 
 **Bridging the ummah to decentralized systems through infrastructure and applications.**
-
                                                                                                                                                                                بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-
