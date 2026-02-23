@@ -1,6 +1,7 @@
 # Tawf Labs
+**Researching and building Sharia-aligned infrastructure and applications for decentralized systems. Bridging the trust gap for Muslim communities in blockchain and DeFi.**
 
-**Researching and building Sharia-aligned infrastructure for decentralized systems.**
+**TL;DR:** Tawf Labs builds Sharia-compliant blockchain infrastructure and apps. We enable ethical participation in DeFi through auditable governance, compliance by design, and open-source development.
 
 Muslim communities are increasingly engaging with blockchain and DeFi, but most platforms **fail to provide verifiable, ethical, and Sharia-compliant solutions**. Tawf Labs exists to **bridge this trust gap** by developing **foundational infrastructure** and **consumer applications** that make participation safe, ethical, and practical.
 
