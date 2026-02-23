@@ -81,5 +81,5 @@ Unless otherwise specified, repositories under Tawf Labs are released under the 
 Tawf Labs
 A company of Tawf Foundation
 
-**Bridging the ummah to decentralized systems through infrastructure and applications.**
+**Bridging the ummah to decentralized systems through infrastructure and applications.**                                                                                                              
                                                                                                                                                                                بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
