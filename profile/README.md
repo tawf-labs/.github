@@ -91,4 +91,4 @@ A company of Tawf Foundation
 
 **Bridging the ummah to decentralized systems through infrastructure and applications.**
 
-بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ                                                                                                                                                                               
