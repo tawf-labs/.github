@@ -1,88 +1,88 @@
-# Tawf Labs
+<p align="center">
+  <a href="https://github.com/tawf-labs">
+    <img alt="Tawf Labs" src="https://avatars.githubusercontent.com/u/219171504?s=200" width="100">
+  </a>
+</p>
+<p align="center">
+  <strong>Tawf Labs</strong><br>
+  Ethical Blockchain Infrastructure · Research and Applications
+</p>
+<p align="center">
+  <a href="https://tawf.xyz"><img src="https://img.shields.io/badge/tawf.xyz-000?style=flat" alt="Website"></a>
+  <img src="https://img.shields.io/badge/EVM-000?style=flat&logo=ethereum" alt="EVM">
+  <img src="https://img.shields.io/badge/Solidity-000?style=flat&logo=solidity" alt="Solidity">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/MIT-000?style=flat" alt="MIT License">
+</p>
+<p align="center">
+  A company of <strong>Tawf Foundation</strong>
+</p>
 
-**Researching and building ethical, blockchain-agnostic infrastructure and applications for decentralized systems. Bridging the trust gap for communities seeking verifiable, auditable, and responsible participation.**
+---
 
-**TL;DR:** Ethical, blockchain-agnostic infrastructure and applications. Compliant, auditable, and open-source.
+## What We Do
 
-Tawf Labs exists to **bridge the trust gap** in decentralized systems by developing **foundational infrastructure** and **consumer applications** that make participation **safe, ethical, and globally responsible**. Sharia compliance is included as a first ethical standard, alongside universal principles of transparency, risk management, and accountability.
+Tawf Labs researches and builds ethical, blockchain-agnostic infrastructure and applications for decentralized systems. We bridge the trust gap for communities seeking verifiable, auditable, and responsible participation in blockchain ecosystems.
 
+Our work embeds universal ethical principles alongside Sharia compliance directly into protocol logic. Infrastructure plus applications. Compliance by design.
 
-# The Problem
+## The Problem
 
-Current decentralized finance and digital asset platforms often:
+| Problem | Impact |
+|---|---|
+| Exploitative lending and hidden leverage | Retail users exposed to undisclosed risk |
+| No auditable governance | Communities cannot verify ethical claims |
+| Off-chain compliance assurances | Trust depends on centralized gatekeepers |
+| Limited safe access points | Muslim investors and ethical communities excluded |
+| No verifiable halal standards on-chain | Certifications are opaque and unenforceable |
 
-* Include **unethical practices**, such as exploitative lending, hidden leverage, or speculative loops
-* Lack **auditable governance and ethical accountability**
-* Rely on **off-chain assurances** for ethical or regulatory compliance
-* Leave users with **limited safe access** to blockchain ecosystems
+## Our Approach
 
-As a result, **capital participation is risky**, and many communities—including but not limited to Muslim investors—are **excluded or exposed to unethical risk**.
+**Infrastructure layer:** Smart contracts, DAOs, and privacy-preserving protocols that enforce ethical behavior across any blockchain.
 
+**Application layer:** Consumer-facing tools for responsible finance, governance, and digital asset participation.
 
-# Our Solution
+| Principle | Implementation |
+|---|---|
+| Compliance by design | Ethical rules encoded in protocol logic |
+| Auditable governance | Transparent, verifiable decision-making on-chain |
+| Privacy where required | Sensitive obligations protected via ZK proofs |
+| Transparency where needed | Communities and institutions verify independently |
+| Blockchain agnostic | EVM, Solana, and cross-chain protocols |
 
-Tawf Labs **builds ethical, blockchain-agnostic infrastructure and applications** that embed **universal and Sharia-aligned principles** directly into decentralized systems.
+## Products
 
-* **Infrastructure:** Smart contracts, DAOs, and privacy-preserving protocols that enforce ethical, auditable, and compliant behavior **across any blockchain**
-* **Applications:** Consumer-facing tools enabling **responsible finance, governance, and digital asset participation**
+| Product | Description |
+|---|---|
+| [Sharia Capital Standard](https://github.com/tawf-labs/Sharia-Capital-Standard) | Open, composable, risk-sharing capital formation primitive |
+| [Tawf Finance](https://github.com/tawf-labs/tawf-finance) | Ethical finance application layer |
+| [Tawf Gov](https://github.com/tawf-labs/tawf-gov) | DID-based NFT governance for the Tawf Sharia DApps ecosystem |
+| [Sanad](https://github.com/tawf-labs/sanad) | Halal supply chain trust infrastructure with verifiable credentials |
+| [Tabah Protocol](https://github.com/tawf-labs/tabah-protocol) | AI-powered emergency response for disaster relief |
+| [Miqyas Eval](https://github.com/tawf-labs/miqyas-eval) | Open-source LLM bias evaluation suite |
+| [QRBN](https://github.com/tawf-labs/qrbn-frontend) | Consumer facing ethical participation tools |
+| [ZKT App](https://github.com/tawf-labs/zkt-app) | Zakat and ethical giving application |
 
-We ensure:
+## Focus Areas
 
-* **Compliance by design** – Ethical rules (Sharia, ESG, governance, risk) are encoded in protocol logic
-* **Auditable governance** – Transparent, verifiable decision-making on-chain
-* **Privacy where required** – Sensitive obligations protected
-* **Transparency where needed** – Communities and institutions can trust and verify protocols
+- Ethical and Sharia-aligned finance
+- Decentralized governance and DAO frameworks
+- Privacy-preserving cryptography including zero-knowledge proofs
+- Blockchain-agnostic Layer 1 and Layer 2 protocols
+- Halal supply chain verification
+- AI and LLM evaluation for ethical bias
 
-This dual approach of infrastructure plus applications **enables communities globally to participate confidently, ethically, and blockchain-agnostically**.
+## Contribute
 
+We support open research and open-source collaboration. Contributions welcome from:
 
-# Focus Areas
+- Developers and protocol engineers
+- Cryptography and governance researchers
+- Scholars of Islamic finance, ESG, and ethics
+- Designers of responsible financial systems
 
-* Ethical and Sharia-aligned finance
-* Decentralized governance and DAO frameworks
-* Privacy-preserving cryptography (e.g., zero-knowledge proofs)
-* Blockchain-agnostic Layer 1 and Layer 2 protocols
+---
 
-**Core R&D:**
-
-* On-chain governance aligned with ethical principles (Sharia-first, ESG, regulatory)
-* Compliance-aware protocol design
-* Privacy-preserving financial obligations
-* Ethical treasury and capital frameworks
-* Open standards for globally responsible, blockchain-agnostic systems
-* Consumer-facing ethical finance applications
-
-
-# Vision
-
-A decentralized ecosystem where communities can **participate with confidence, clarity, and trust**, supported by **blockchain-agnostic infrastructure and applications** that **embed universal and Sharia-aligned ethical compliance natively**.
-
-
-# Mission
-
-To **research, define, and build ethical, blockchain-agnostic governance and financial infrastructure**, and to **deliver applications** that enable **responsible and auditable participation** in decentralized systems worldwide.
-
-
-# Open Development
-
-We support **open research and open-source collaboration**. Contributions are welcome from:
-
-* Developers and protocol engineers
-* Cryptography and governance researchers
-* Scholars of Islamic finance, ESG, and ethics
-* Designers of responsible financial systems
-
-All work aligns with **technical rigor and globally recognized ethical principles**.
-
-
-# License
-
-Unless otherwise specified, repositories under Tawf Labs are released under the **MIT License**.
-
-
-
-**Tawf Labs**
-A company of Tawf Foundation
-
-**Bridging communities worldwide to blockchain-agnostic decentralized systems through ethical infrastructure and applications.**                                                                                                           
-                                                                                                                                                                               بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+<p align="center">
+  <sub>A company of Tawf Foundation · <a href="https://tawf.xyz">tawf.xyz</a> · بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</sub>
+</p>
