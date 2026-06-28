@@ -8,7 +8,7 @@
   Ethical Blockchain Infrastructure · Research and Applications
 </p>
 <p align="center">
-  <a href="https://tawf.xyz"><img src="https://img.shields.io/badge/tawf.xyz-000?style=flat" alt="Website"></a>
+  <a href="https://tawf.foundation"><img src="https://img.shields.io/badge/tawf.foundation-000?style=flat" alt="Website"></a>
   <img src="https://img.shields.io/badge/EVM-000?style=flat&logo=ethereum" alt="EVM">
   <img src="https://img.shields.io/badge/Solidity-000?style=flat&logo=solidity" alt="Solidity">
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" alt="TypeScript">
@@ -84,5 +84,5 @@ We support open research and open-source collaboration. Contributions welcome fr
 ---
 
 <p align="center">
-  <sub>A company of Tawf Foundation · <a href="https://tawf.xyz">tawf.xyz</a> · بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</sub>
+  <sub>A company of Tawf Foundation · <a href="https://tawf.foundation">tawf.foundation</a> · بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</sub>
 </p>
