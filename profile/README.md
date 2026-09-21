@@ -22,7 +22,7 @@
 
 ## What We Do
 
-Tawf Labs researches and builds ethical, blockchain-agnostic infrastructure and applications for decentralized systems. We bridge the trust gap for communities seeking verifiable, auditable, and responsible participation in blockchain ecosystems.
+Tawf Labs researches and builds ethical EVM infrastructure and applications for decentralized systems. We bridge the trust gap for communities seeking verifiable, auditable, and responsible participation in blockchain ecosystems.
 
 Our work embeds universal ethical principles alongside Sharia compliance directly into protocol logic. Infrastructure plus applications. Compliance by design.
 
@@ -68,7 +68,7 @@ Our work embeds universal ethical principles alongside Sharia compliance directl
 - Ethical and Sharia-aligned finance
 - Decentralized governance and DAO frameworks
 - Privacy-preserving cryptography including zero-knowledge proofs
-- Blockchain-agnostic Layer 1 and Layer 2 protocols
+- EVM Layer 1 and Layer 2 protocols
 - Halal supply chain verification
 - AI and LLM evaluation for ethical bias
 
