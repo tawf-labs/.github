@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/MIT-000?style=flat" alt="MIT License">
 </p>
 <p align="center">
-  A company of <strong>Tawf Foundation</strong>
+  The company building <strong>Tawf Foundation</strong>
 </p>
 
 ---
